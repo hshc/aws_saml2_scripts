@@ -1,0 +1,12 @@
+---
+CommonGroups:
+    - IAMSelfService
+Users:
+  -
+    FirstName: Doe
+    LastName: John
+    Mail: j.doe@hshc.com
+    Login: jdoe
+    Groups:
+        - DevOps
+        - SuperAdmins
